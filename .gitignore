@@ -1,0 +1,7 @@
+# Swift 3 files
+
+# OS files
+.DS_Store
+
+# Misc files
+original/
